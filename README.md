@@ -1,5 +1,5 @@
 # KLauncher
-KLaunceher - лаунчер для сервера Kt04ka
+Современный лаунчер Klauncher разработан для проекта KT04KA
 
-# Дата выхода
-Скоро
+# Фотки лаунчера
+![Uploading image.png…]()
