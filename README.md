@@ -1,2 +1,5 @@
 # KLauncher
 KLaunceher - лаунчер для сервера Kt04ka
+
+# Дата выхода
+Скоро
